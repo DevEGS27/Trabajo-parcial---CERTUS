@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans:wght@100&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&display=swap');
+
+/* font-family: 'Alumni Sans Pinstripe', sans-serif; */
+
+/*******************************************/
+/********** CABECERA DE LA PAGINA **********/
+/*******************************************/
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#main-shop{
+    margin: 0;
+    padding: 0;
+
+    display: block;
+    clear: both;
+    float: left;
+}
+
+#top-bar{
+    margin: 0;
+    padding: 0;
+
+    width: 100%;
+    
+    background-color: #f6f4f4;
+    color: #131313;
+
+    display: block;
+    clear: both;
+    float: right;
+}
+
+#logo{
+    width: 30%;
+
+    display: block;
+    clear: none;
+    float: left;
+}
+
+#navbar{
+    width: 60%;
+
+    display: block;
+    clear: none;
+    float: left;
+}
+
+ul>li>a{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#wallpaper-more{
+    display: block;
+    clear: none;
+    float: left;
+}
+
+#image-shop{
+    width: 100%;
+}
+h1{
+    color: #f6f4f4;
+}
+
+#why-us{
+    background-color: #f6f4f4;
+}
+
+#suscribe-to-us{
+    background-color: #f3b21b;
+}
+
+#box-down{
+    background-color: #131313;
+}
+
+#pie-one{
+    color: #f6f4f4;
+}
+
+#pie-two{
+    background-color: #f6f4f4;
+}
+
+
+
+/*****************************************/
+/********** CUERPO DE LA PAGINA **********/
+/*****************************************/
+
+#font-title{
+    font-family: 'Abril Fatface', cursive;
+}
+
+.size-picture{
+    width: 252px;
+    height: 378px;
+}
+
+#type{
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.same-font{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.same-font-addtocar{
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+/**************************************/
+/********** PIE DE LA PAGINA **********/
+/**************************************/
+
+#titlelite, #about-us{
+    color: #131313;
+}
+
+#contact-us{
+    background-color: #f6f4f4;
+    color: #131313;
+}
+
+#font-titletwo{
+    font-family: 'Alumni Sans', sans-serif;
+}
